@@ -1,3 +1,9 @@
+# Solução
+Nesse repositório eu coloquei a minha solução do teste Skynet. Abaixo tem a descrição do que foi solicitado. Para fins de entendimento do que foi modificado criei duas branches: *master* e *developer*.
+
+E o que eu apresento como solução é a branch **developer**.
+
+---
 # Introdução
 A Skynet decidiu produzir androids em massa, cada android deve possuir um número de série **ALEATÓRIO** e **ÚNICO** no formato **LLNNN**, ou seja: letra + letra + número + número + número.
 Por exemplo: TW232 ou MS120

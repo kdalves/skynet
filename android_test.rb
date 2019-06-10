@@ -11,7 +11,7 @@ class AndroidTest < Minitest::Test
   def test_ao_resetar_deve_trocar_de_numero
     android = Android.new
     primeiro_numero = android.numero
-    android.resetar
+    android.resetar(primeiro_numero)
     refute_equal primeiro_numero, android.numero
   end
 end
